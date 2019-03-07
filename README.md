@@ -1,2 +1,2 @@
-# HH-Project
-2019年项目
+# BBrowser
+A simple, lightweight web browser using CEFSharp
